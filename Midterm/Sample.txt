@@ -1,0 +1,12 @@
+As a Man Thinketh,James Allen,Self Help, ,001, 
+Green Eggs and Ham,Dr.Suess,Children, ,002, 
+Two States,Chetan Bhagat,Romance,check,003,10/3/2016 11:11:05 PM
+Pride and Prejudice,Jane Austen,Romance, ,004, 
+The Shining,Stephen King, Horror, ,005, 
+The Power of Now,Eckart Tolle,Self Help, ,006, 
+The Catcher in the Rye,J.D. Salinger,Children,check,007,10/3/2016 11:56:00 PM
+The Lord of the Rings,J.R. Tolkien,Fantasy, ,010, 
+American Psycho,Brett Ellis,Horror,check,008,10/4/2016
+Cooking School,Martha Stewart,NonFiction,check,009,10/4/2016
+The Audacity of Hope,Barack Obama,NonFiction,check,011,10/3/2016 11:09:39 PM
+Eye of The World,Robert Jordan,Fantasy, ,012, 
